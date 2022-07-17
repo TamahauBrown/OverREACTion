@@ -1,6 +1,7 @@
 .App {
   text-align: center;
   min-height: 100vh;
+  background-color: #282c34;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -9,8 +10,7 @@
   }
 }
 
-.App-header, .App-body, .App-footer{
-  background-color: #282c34;
+.App-header, .App-body, .App-footer, #header-link{
   display: flex;
   align-items: center;
   justify-content: center;
@@ -28,19 +28,30 @@ a {
 }
 
 .App-body {
-  min-height: 92vh;
+  min-height: 91vh;
 }
 
 .App-footer {
-  bottom: 0;
+  bottom: 10%;
 }
 
 .App-link {
   color: #61dafb;
 }
 
-#header-item {
+#header-item, #header-link {
   padding-right: 25px;
+}
+
+#header-link {
+  background: none!important;
+  border: none;
+  /*padding: 0!important;*/
+  /*optional*/
+  font-family: arial, sans-serif;
+  /*input has OS specific font-family*/
+  cursor: pointer;
+  top: 0;
 }
 
 @keyframes App-logo-spin {
