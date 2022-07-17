@@ -1,24 +1,22 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-import {Link, NavLink} from 'react-router-dom'
+import '../../App.css';
+import {Link} from 'react-router-dom'
 
-function Home() {
+export function Home() {
     return (
         <div className="App">
         <header className="App-header">
-        <p>
-            Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-    className="App-link"
-    href="https://reactjs.org"
-    target="_blank"
-    rel="noopener noreferrer"
-        >
-        Welcome to the home page
-    </a>
+            Welcome to the home page
+            <Link to="home"> Homes </Link>
+            <Link to='aeryaan'>Aeryaan</Link>
+            <Link to='serenity'>aSerenity</Link>
+            <Link to='sol'>Sol</Link>
+            <Link to='DMNotes'>DM Notes</Link>
     </header>
+            <body>
+            </body>
+            <footer>
+            </footer>
         </div>
 );
 }

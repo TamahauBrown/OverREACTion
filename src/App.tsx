@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import ReactDOM from "react-dom/client";
+import { Link } from "react-router-dom";
 
 function App() {
   return (
@@ -19,11 +19,12 @@ function App() {
         >
           Learn React
         </a>
-        <a href="/Components"> Homes </a>
-        <a href='/Components/Aeryaan/Aeryaan'>Aeryaan</a>
-        <a href='/Components/Serenity/Serenity'>Serenity</a>
-        <a href='/Components/Sol/Sol'>Sol</a>
-        <a href='/Components/DM Notes/DM Notes'>DM Notes</a>
+
+        <Link to="home"> Homes </Link>
+        <Link to='aeryaan'>Aeryaan</Link>
+        <Link to='serenity'>Serenity</Link>
+        <Link to='sol'>Sol</Link>
+        <Link to='DMNotes'>DM Notes</Link>
       </header>
     </div>
   );
