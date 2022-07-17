@@ -39,7 +39,8 @@ a {
   color: #61dafb;
 }
 
-#header-item, #header-link {
+#header-item {
+  padding-top: 10px;
   padding-right: 25px;
 }
 
@@ -52,6 +53,8 @@ a {
   /*input has OS specific font-family*/
   cursor: pointer;
   top: 0;
+  padding-top: 15px;
+  padding-right: 25px;
 }
 
 @keyframes App-logo-spin {
