@@ -20,6 +20,7 @@
 
 a {
   color: white;
+  text-decoration: none;
 }
 
 .App-header {
@@ -39,7 +40,7 @@ a {
 }
 
 #header-item {
-  padding-right: 10px;
+  padding-right: 25px;
 }
 
 @keyframes App-logo-spin {
