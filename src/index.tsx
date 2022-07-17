@@ -26,7 +26,6 @@ root.render(
               <Route path="serenity" element={<Serenity />} />
               <Route path="sol" element={<Sol />} />
           </Routes>
-          <App />
       </BrowserRouter>
   </React.StrictMode>
 );
