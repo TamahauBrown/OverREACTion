@@ -32,7 +32,7 @@ export function Sol() {
                         many lost their parents in the disturbance.</h6>
                 </div>
                 <div>
-                    <h2>Sanctum:</h2>
+                    <h2>Elemental Stars:</h2>
                     <br></br>
                     <img src={require("../../Images/RachelSing.jpg")} alt="Rachel Sing" className="character"></img>
                     <img src={require("../../Images/RockStone.jpg")} alt="Rock Stone" className="character"></img>
@@ -42,7 +42,7 @@ export function Sol() {
                     <br></br>
                     <h3>Rachel Sing, Rock Stone, Gandalf, Onramov, Bates Mistress</h3>
                     <br></br>
-                    <h2>Cultists' Revenge:</h2>
+                    <h2>Mysteries of the Faye Wild:</h2>
                     <img src="../../Images/" alt="" className="character"></img>
                     <img src="../../Images/" alt="" className="character"></img>
                     <img src="../../Images/" alt="" className="character"></img>
