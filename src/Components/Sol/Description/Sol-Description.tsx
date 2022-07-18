@@ -5,7 +5,8 @@ import '../Sol.scss'
 export function SolDescription() {
     return (
         <div className="description">
-            <h6>A long time ago or so the stories are mentioned, the power of magic ruled over the world of Sol.
+            <img src={require("../../../Images/SolMap.png")} alt="The map of sol" className="map"></img>
+            <h6>Background: A long time ago or so the stories are mentioned, the power of magic ruled over the world of Sol.
                 The four elements known as the power harnessed by elementalists created the base of the world
                 that
                 humans harnessed to thrive and develop civilizations leading to prosperity or so it seemed...
