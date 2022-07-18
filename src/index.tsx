@@ -11,6 +11,7 @@ import { DMNotes } from "./Components/DM Notes/Dm Notes";
 import { Kava } from "./Components/Kava/Kava"
 import { Serenity } from "./Components/Serenity/Serenity";
 import { Sol } from "./Components/Sol/Sol";
+import { Worlds } from "./Components/Worlds/Worlds";
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
@@ -25,6 +26,7 @@ root.render(
               <Route path="kava" element={<Kava />} />
               <Route path="serenity" element={<Serenity />} />
               <Route path="sol" element={<Sol />} />
+              <Route path="worlds" element={<Worlds />} />
           </Routes>
       </BrowserRouter>
   </React.StrictMode>
