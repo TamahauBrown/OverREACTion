@@ -1,6 +1,6 @@
 import React from "react";
-import '../../../App.scss';
-import '../Sol.scss'
+import '../../../../App.scss';
+import '../../Sol.scss'
 
 export function LadyRachel() {
     return (

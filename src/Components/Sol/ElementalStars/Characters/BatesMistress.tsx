@@ -1,8 +1,8 @@
 import React from "react";
-import '../../../App.scss';
-import '../Sol.scss'
+import '../../../../App.scss';
+import '../../Sol.scss'
 
-export function AquataTheInsane() {
+export function BatesMistress() {
     return (
         <div className="description">
         </div>
