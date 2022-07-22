@@ -20,6 +20,14 @@ export function FayeWild() {
             <span className="character-name">Lefrial, </span>
             <span className="character-name">Thadius</span>
         </h3>
+
+            Notes:
+            Met Saturos at his house and the cavern north
+Saved the family of spiders
+Met the fairies
+Was told about the red glowing rock and not to give to Saturos or the fairies, currently held by Pussy Kat
+Lefrial tried to chop down Pussy Kat and Thadius' Home
+In order to get a ship, they must steal the power source from Saturos
         </span>
     )
 }

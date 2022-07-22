@@ -52,6 +52,33 @@ export function Solgaleo() {
 
             Main Quest: Elemental Stars
             Quest Triggers: Floats-in-notes performs in the music festival
+
+            Solgaleo Information:
+            Population: 100,000 (20% Human, 40% Half Elves, 10% Aarakocra, 20% Triton (Seas), 10% Other)
+
+            Terrain: Mountain,m Grassland
+
+            Government: Oligarchy
+
+            Military: Consists of mostly high level magicians, Archers tend to be on the walls, and basic guards walking
+            around (imagine Skyrim guards)
+
+            Commerce: Pearls, Fish, Whales
+
+            Organizations: Noble's Ltd. , The Watch (Guards), Fighter's Guild
+
+            Common Languages: Common, Celestial, Aarakrookan, Sylian, Elvish
+
+            Attractions/Wonders: Mt. Lunaris, Arena of the Mighty
+
+            Districts:
+            Academic (Observatory, Alchemy Office), Commerce (Bank), Entertainment Complex (Arena of The Mighty, small
+            arena), Marketplace (Tavern, Food Market)
+
+            Events of the year:
+            International Music Festival
+            Tribute to Nereid
+            Sanctum Seal
         </div>
 
     )

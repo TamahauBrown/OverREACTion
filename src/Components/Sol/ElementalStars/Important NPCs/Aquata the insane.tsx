@@ -52,6 +52,47 @@ export function AquataTheInsane() {
             + Kitchen: No encounter.
             - Top Middle Ward: Aquata, DC 18 Perception: 2 Merrows hidden in the walls.
 
+            Trap Name: Doppleganger Delusion
+
+            Level: any
+
+            Attack Type: You can make this an automatic effect on one PC, or you could roll an with an appropriate bonus
+            vs Will for everyone in a blast 5 of the trigger, as desired.
+
+            Description:
+            Make PC(s) think that one of the others has been swapped with a doppleganger which is about to attack and
+            kill them. However, there is no doppleganger — the person suspecting this has been deluded.
+
+            Trigger:
+            You can trigger this with the dying curse of a witch or a gypsy thief, or from a cursed magic item or
+            scroll, or with magic runes which the party fails to disable, or whatever. You can make it unclear what the
+            effect is going to be or you can give them something like “you will die at the hands of a friend”.
+
+            Effect:
+            One or more affected PCs are deluded into thinking that another PC is really a doppleganger. As DM you can
+            build up some paranoia by passing notes to all the players. To the deluded PC, the note should mention that
+            they notice something odd about one of the others — that his face or clothing looks slightly off or his
+            voice sounds like it is changing for a moment. You can do this a few times throughout the day, increasing
+            the warnings. At the same time, notes to other players could just say “continue role playing your character
+            as usual… for now”. Obviously the players should not step out of character and reveal what you’ve written.
+            The final part should happen at a time when the affected PC would naturally think that the others are
+            especially vulnerable — perhaps most of the party is asleep or they’ve just finished a battle and some are
+            injured.
+
+            At this point, unless the deluded PC has already taken violent or other entertaining action against the
+            “doppleganger”: roll a d20, consult your notes carefully, and tell him that he’s identified the threat as a
+            doppleganger (and explain what that is if needed) — and that it has now dropped its disguise, drawn a
+            weapon, and is about to attack an unsuspecting and defenseless comrad.
+
+            Give the deluded PC priority in initiative and proximity to attack the suspected “doppleganger” if you can
+            trick him into it! If a fight begins, you can further escalate it by having any nearby NPCs jump in on
+            either side, depending where their loyalties lie.
+
+            If the “doppleganger” is not killed at this point, the deluded PC will see the error in his judgement and
+            the curse is gone. If the deluded PC manages to kill the “doppleganger” his belief is vindicated and his
+            delusion strengthened. By the next day he will have identified yet another “doppleganger” amongst his
+            comrads.
+
 
             Notes:
             DM NOTE: Aquata is under the influence of the Adric Prince called Molgoraun.

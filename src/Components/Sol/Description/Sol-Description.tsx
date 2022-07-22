@@ -24,6 +24,13 @@ export function SolDescription() {
                 attempt to steal the stars which caused untold destruction, fortunately the power was sealed
                 away but
                 many lost their parents in the disturbance.</h6>
+
+            Gods:
+            Water: Nereid
+            Earth: Ramses
+            Fire: Timat
+            Air: Atalanta
+            Moon: Luna
         </div>
     )
 }
