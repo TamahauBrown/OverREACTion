@@ -1,4 +1,6 @@
-.App {
+@import "~bootstrap/scss/bootstrap";
+
+.App, html, body {
   text-align: center;
   min-height: 100vh;
   background-color: #282c34;
@@ -10,12 +12,14 @@
   }
 }
 
-.App-header, .App-body, .App-footer, #header-link{
+.App-header, .App-body, .App-footer, #header-link, #nav-dropdown-dark-example{
   display: flex;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  padding: 0;
+  margin: 0;
 }
 
 a {
@@ -23,7 +27,7 @@ a {
   text-decoration: none;
 }
 
-.App-header {
+.App-header, .nav-dropdown-dark-example {
   top: 0;
   background-color: #282c38;
 }
@@ -40,9 +44,10 @@ a {
   color: #61dafb;
 }
 
-#header-item {
+.header-item {
   padding-top: 10px;
   padding-right: 25px;
+  bottom: 2px;
 }
 
 #header-link {
@@ -56,13 +61,4 @@ a {
   top: 0;
   padding-top: 15px;
   padding-right: 25px;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }

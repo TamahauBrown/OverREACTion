@@ -15,10 +15,6 @@ export function Sol() {
             <div className="SolDescription">
                 <h1 className="introduction">Sol</h1>
                 <SolDescription />
-                <div className="campaigns">
-                    <ElementalStars />
-                    <FayeWild />
-                </div>
             </div>
             </body>
             <Footer/>
