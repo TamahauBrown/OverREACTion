@@ -7,9 +7,9 @@ export function Kava() {
     return (
         <div className="App">
             <Header/>
-            <body className="App-body">
+            <div className="App-body">
             Welcome to Kava!
-            </body>
+            </div>
             <Footer/>
         </div>
     );

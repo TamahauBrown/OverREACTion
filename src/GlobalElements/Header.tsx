@@ -12,7 +12,7 @@ export function Header() {
     });
     return (
         <header className="App-header">
-            <Link to="../" id="header-item"> Home </Link>
+            <Link to="../" className="header-item"> Home </Link>
             <Navbar expand="lg">
                 <Container fluid>
                     <Navbar.Brand href="#home"></Navbar.Brand>
@@ -36,7 +36,7 @@ export function Header() {
                     </Navbar.Collapse>
                 </Container>
             </Navbar>
-            <Link to='../DMNotes' id="header-item">DM Notes</Link>
+            <Link to='../DMNotes' className="header-item">DM Notes</Link>
 
 
         </header>

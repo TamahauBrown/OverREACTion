@@ -7,9 +7,9 @@ export function Aeryaan() {
     return (
         <div className="App">
             <Header/>
-            <body className="App-body">
+            <div className="App-body">
             Welcome to Aeryaan!
-            </body>
+            </div>
             <Footer/>
         </div>
     );

@@ -7,9 +7,9 @@ export function Serenity() {
     return (
         <div className="App">
             <Header/>
-            <body className="App-body">
+            <div className="App-body">
             Serenity!
-            </body>
+            </div>
             <Footer/>
         </div>
     );

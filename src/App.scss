@@ -12,6 +12,10 @@
   }
 }
 
+.App-header {
+  border-bottom: 0.1px solid yellow;
+}
+
 .App-header, .App-body, .App-footer, #header-link, #nav-dropdown-dark-example{
   display: flex;
   align-items: center;
@@ -33,11 +37,16 @@ a {
 }
 
 .App-body {
-  min-height: 91vh;
+  height: 89.5vh;
+  display: block;
+  margin-top: 1%;
 }
 
 .App-footer {
-  bottom: 10%;
+  bottom: 0;
+  margin: 0 auto;
+  position: fixed;
+  width: 100%;
 }
 
 .App-link {
@@ -47,6 +56,8 @@ a {
 .header-item {
   padding-top: 10px;
   padding-right: 25px;
+  margin-left: 10%;
+  margin-right: 10%;
   bottom: 2px;
 }
 
@@ -61,4 +72,8 @@ a {
   top: 0;
   padding-top: 15px;
   padding-right: 25px;
+}
+
+#welcomeMessage {
+  font-size: 72px;
 }

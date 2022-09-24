@@ -9,14 +9,14 @@ export function Worlds() {
     return (
         <div className="App">
             <Header/>
-            <body className="App-body">
+            <div className="App-body">
             <div>
                 <div id="world-title">
                     Welcome to my worlds!
                 </div>
                 <WorldNames/>
             </div>
-            </body>
+            </div>
             <Footer/>
         </div>
     );

@@ -7,9 +7,9 @@ export function DMNotes() {
     return (
         <div className="App">
             <Header/>
-            <body className="App-body">
+            <div className="App-body">
             Welcome to DM Notes!
-            </body>
+            </div>
             <Footer/>
         </div>
     );

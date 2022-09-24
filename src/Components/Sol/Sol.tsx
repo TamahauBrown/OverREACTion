@@ -11,12 +11,12 @@ export function Sol() {
     return (
         <div className="App">
             <Header/>
-            <body className="App-body">
+            <div className="App-body">
             <div className="SolDescription">
                 <h1 className="introduction">Sol</h1>
                 <SolDescription />
             </div>
-            </body>
+            </div>
             <Footer/>
         </div>
     );
