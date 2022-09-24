@@ -77,3 +77,12 @@ a {
 #welcomeMessage {
   font-size: 72px;
 }
+
+#homeHeader, #nav-dropdown-dark-example, #dmNotesHeader {
+  width: 33%;
+  margin: auto;
+}
+
+.navbar {
+  --bs-navbar-padding-y: 0;
+}
